@@ -1,5 +1,4 @@
 import React from 'react'
-import Polaroid from '../assets/Polaroid1.png'
 
 function about() {
   
