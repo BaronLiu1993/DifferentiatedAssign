@@ -22,9 +22,6 @@ function about() {
             </div>
           </div>
       </div>
-      <div className = 'bg-white rounded-lg p-5'>
-        <img src = {Polaroid} className = 'h-[20rem] w-[30rem]'/>
-      </div>
         
       </div>
     </>
