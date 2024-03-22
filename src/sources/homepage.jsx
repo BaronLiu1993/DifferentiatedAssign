@@ -16,7 +16,7 @@ function homepage() {
             Economic Integration
           </div>
           <div className = 'text-lg text-white my-5 font-bold font-nunito'>
-           Works to 
+           Baron Liu
           </div>
           <a target= "blank" href = 'https://devpost.com/baronliu1993' className = 'hover:text-[#101628] bg-red-400 text-white my-5 font-nunito border w-40 p-5 hover:bg-white rounded-lg'>
             View Work →
