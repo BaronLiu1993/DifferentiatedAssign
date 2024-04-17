@@ -61,7 +61,7 @@ function claspp() {
       </div>
 
       <div className = 'bg-[#101628] h-[70rem] w-[100rem] m-10 flex justify-center items-align rounded-lg flex-col'>
-        <div className = 'text-red-400 text-3xl font-bold font-nunito m-10' >Long Term and Short Term</div>
+        <div className = 'text-red-400 text-3xl font-bold font-nunito m-10' >Stakeholders</div>
         <div className = 'text-white font-nunito'>
             <div className = 'flex justify-center'>
             <img className = 'h-[30rem] w-[45rem] rounded-lg' src = {Stakeholder}/>
